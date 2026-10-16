@@ -1,6 +1,5 @@
 import json
 import sqlite3
-import numpy as np
 import hashlib
 from jsonpatch import make_patch, apply_patch
 

@@ -90,11 +90,7 @@ du parent, avec l'énergie du parent et un cerveau **muté**.
 | `genealogy_viewer.py` / `genealogy_viewerv2.py` | Visualiseurs Tkinter de la généalogie (deux versions, la v2 est plus récente). |
 | `get_agent_lineage_with_visualization.py` | Généalogie + visualisation networkx (utilisé par les viewers). |
 | `lignéfixv2.py` | Variant de la généalogie (base `evolution.db` dans le dossier courant). |
-| `save_network_state.py` | ⚠️ Ancien module de sauvegarde, **supplanté par `evolution_tracker.py`** (non importé par le simulateur). |
-| `SpatialGridAgent.py` | ⚠️ Ancien index spatial, **doublon mort** de `SpatialGrid.py`. |
-| `simulation_setup.py` | ⚠️ Script de setup historique, **cassé/inutilisé** (référence un SQL absent). |
-| `*.copy.py` | **Backups des originaux** d'avant la réforme de 2026-10-16. Ne jamais écraser. |
-| `simulations/` | Un sous-dossier par simulation (voir §5). |
+| `simulations/` | Un sous-dossier par simulation (voir §5) — local, ignoré par git. |
 
 ---
 
@@ -343,9 +339,10 @@ Vérifications à faire **après toute modification** (et avant de dire « c'est
 - **Collisions de dossiers** : le nom de dossier par défaut est l'horodatage à la
   seconde ; deux lancements manuels dans la même seconde écriraient dans le même
   dossier. Le lanceur contourne en passant toujours `--outdir` explicite.
-- **Dossiers/doublons** : `save_network_state.py`, `SpatialGridAgent.py`,
-  `simulation_setup.py` sont morts (voir §2) — ne pas les « réparer », les supprimer
-  quand le besoin se fera sentir.
+- **Nettoyage 2026-10-16** : les doublons morts (`save_network_state.py`,
+  `SpatialGridAgent.py`, `simulation_setup.py`) et les backups `*.copy.py` ont été
+  supprimés du dépôt (les originaux restent dans l'historique git). La convention de
+  backup local `NOMFICHIER.copy.py` est couverte par le `.gitignore`.
 - **Performance** (mesurée, 2026-10-16) : ~8 ms/pas à 150 agents (dont ~7 ms = le
   graphe matplotlib de suivi tous les 100 pas, **même en headless**), ~62 ms/pas à
   500, ~1000 ms/pas à 2000 (croissance super-linéaire : à haute population, ~47 % du

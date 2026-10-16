@@ -1,9 +1,0 @@
-{
-  "campaign_id": "c20261016_095421_37261",
-  "campaign_label": "test A (3 seeds, 120 pas)",
-  "run_id": "r00",
-  "seed": 101,
-  "max_steps": 120,
-  "params_override": {},
-  "launched": "2026-10-16T09:54:22"
-}

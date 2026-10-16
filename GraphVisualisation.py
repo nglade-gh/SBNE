@@ -1,8 +1,6 @@
 import networkx as nx
 import matplotlib.pyplot as plt
 import numpy as np
-import csv
-import os
 
 # Fonction permettant d'afficher le graphique du réseau de neurones d'un agent
 def show_sbn_graph(agent_id, sbn):

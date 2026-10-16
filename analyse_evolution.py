@@ -1,5 +1,4 @@
 from evolution_tracker import rebuild_network
-import sqlite3
 
 # Connexion à la base de données
 db_path = "evolution.db"

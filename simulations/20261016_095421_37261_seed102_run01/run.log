@@ -1,5 +1,0 @@
-pygame 2.6.1 (SDL 2.28.4, Python 3.13.5)
-Hello from the pygame community. https://www.pygame.org/contribute.html
-✅ Paramètres sauvegardés dans : simulations/20261016_095421_37261_seed102_run01/parameters.json
-[0s] Step: 100 | Pop: 151 | Énergie Moy: 747 | Noeuds Moy: 8.0 | Âge Max: 100
-✅ Statistiques sauvegardées dans : simulations/20261016_095421_37261_seed102_run01/stats.json

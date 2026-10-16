@@ -1,7 +1,7 @@
 import os
 import json
 import tkinter as tk
-from tkinter import ttk, filedialog, messagebox
+from tkinter import ttk, messagebox
 import subprocess
 from get_agent_lineage_with_visualization import get_agent_lineage_with_visualization
 
