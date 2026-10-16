@@ -17,3 +17,6 @@ exports/
 # IDE
 .idea/
 .vscode/
+
+# Outil personnel de transfert (chouette <-> machine locale), pas du code projet
+sync_from_chouette.sh
