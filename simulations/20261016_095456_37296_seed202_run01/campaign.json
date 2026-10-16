@@ -1,0 +1,12 @@
+{
+  "campaign_id": "c20261016_095456_37296",
+  "campaign_label": "test B (NUM_AGENTS=300)",
+  "run_id": "r01",
+  "seed": 202,
+  "max_steps": 80,
+  "params_override": {
+    "NUM_AGENTS": "300",
+    "PROBA_INSERTION": "0.6"
+  },
+  "launched": "2026-10-16T09:54:57"
+}

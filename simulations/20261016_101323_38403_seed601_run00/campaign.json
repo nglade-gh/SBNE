@@ -1,0 +1,11 @@
+{
+  "campaign_id": "c20261016_101323_38403",
+  "campaign_label": "validation finale (pop 500, stop via UI)",
+  "run_id": "r00",
+  "seed": 601,
+  "max_steps": 0,
+  "params_override": {
+    "NUM_AGENTS": "500"
+  },
+  "launched": "2026-10-16T10:13:24"
+}

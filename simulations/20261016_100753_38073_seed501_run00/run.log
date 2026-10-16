@@ -1,0 +1,46 @@
+pygame 2.6.1 (SDL 2.28.4, Python 3.13.5)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+✅ Paramètres sauvegardés dans : simulations/20261016_100753_38073_seed501_run00/parameters.json
+[0s] Step: 100 | Pop: 483 | Énergie Moy: 697 | Noeuds Moy: 8.0 | Âge Max: 100
+[0s] Step: 200 | Pop: 354 | Énergie Moy: 625 | Noeuds Moy: 7.9 | Âge Max: 200
+[0s] Step: 300 | Pop: 300 | Énergie Moy: 674 | Noeuds Moy: 7.9 | Âge Max: 300
+[0s] Step: 400 | Pop: 289 | Énergie Moy: 725 | Noeuds Moy: 7.9 | Âge Max: 400
+[0s] Step: 500 | Pop: 288 | Énergie Moy: 719 | Noeuds Moy: 7.9 | Âge Max: 500
+[0s] Step: 600 | Pop: 282 | Énergie Moy: 726 | Noeuds Moy: 7.7 | Âge Max: 600
+[0s] Step: 700 | Pop: 281 | Énergie Moy: 714 | Noeuds Moy: 7.7 | Âge Max: 700
+[0s] Step: 800 | Pop: 273 | Énergie Moy: 745 | Noeuds Moy: 7.7 | Âge Max: 800
+[0s] Step: 900 | Pop: 276 | Énergie Moy: 728 | Noeuds Moy: 7.7 | Âge Max: 900
+[0s] Step: 1000 | Pop: 282 | Énergie Moy: 716 | Noeuds Moy: 7.7 | Âge Max: 1000
+[0s] Step: 1100 | Pop: 272 | Énergie Moy: 734 | Noeuds Moy: 7.6 | Âge Max: 1100
+[0s] Step: 1200 | Pop: 278 | Énergie Moy: 729 | Noeuds Moy: 7.5 | Âge Max: 1200
+[0s] Step: 1300 | Pop: 277 | Énergie Moy: 727 | Noeuds Moy: 7.5 | Âge Max: 816
+[0s] Step: 1400 | Pop: 279 | Énergie Moy: 734 | Noeuds Moy: 7.6 | Âge Max: 916
+[0s] Step: 1500 | Pop: 271 | Énergie Moy: 748 | Noeuds Moy: 7.7 | Âge Max: 979
+[0s] Step: 1600 | Pop: 271 | Énergie Moy: 749 | Noeuds Moy: 7.7 | Âge Max: 1079
+[0s] Step: 1700 | Pop: 279 | Énergie Moy: 744 | Noeuds Moy: 7.5 | Âge Max: 1179
+[0s] Step: 1800 | Pop: 285 | Énergie Moy: 732 | Noeuds Moy: 7.4 | Âge Max: 1279
+[0s] Step: 1900 | Pop: 276 | Énergie Moy: 748 | Noeuds Moy: 7.3 | Âge Max: 1215
+[0s] Step: 2000 | Pop: 280 | Énergie Moy: 733 | Noeuds Moy: 7.3 | Âge Max: 980
+[0s] Step: 2100 | Pop: 270 | Énergie Moy: 749 | Noeuds Moy: 7.1 | Âge Max: 1080
+[0s] Step: 2200 | Pop: 279 | Énergie Moy: 720 | Noeuds Moy: 6.8 | Âge Max: 1180
+[0s] Step: 2300 | Pop: 274 | Énergie Moy: 729 | Noeuds Moy: 6.9 | Âge Max: 1280
+[0s] Step: 2400 | Pop: 280 | Énergie Moy: 725 | Noeuds Moy: 6.9 | Âge Max: 1007
+[0s] Step: 2500 | Pop: 271 | Énergie Moy: 751 | Noeuds Moy: 6.8 | Âge Max: 848
+[0s] Step: 2600 | Pop: 281 | Énergie Moy: 726 | Noeuds Moy: 7.0 | Âge Max: 897
+[0s] Step: 2700 | Pop: 274 | Énergie Moy: 734 | Noeuds Moy: 7.2 | Âge Max: 857
+[0s] Step: 2800 | Pop: 271 | Énergie Moy: 728 | Noeuds Moy: 7.1 | Âge Max: 957
+[0s] Step: 2900 | Pop: 275 | Énergie Moy: 744 | Noeuds Moy: 7.1 | Âge Max: 1057
+[0s] Step: 3000 | Pop: 277 | Énergie Moy: 743 | Noeuds Moy: 7.2 | Âge Max: 919
+[0s] Step: 3100 | Pop: 284 | Énergie Moy: 721 | Noeuds Moy: 7.2 | Âge Max: 1019
+[0s] Step: 3200 | Pop: 270 | Énergie Moy: 735 | Noeuds Moy: 7.2 | Âge Max: 1084
+[0s] Step: 3300 | Pop: 275 | Énergie Moy: 722 | Noeuds Moy: 7.3 | Âge Max: 1184
+[0s] Step: 3400 | Pop: 284 | Énergie Moy: 722 | Noeuds Moy: 7.3 | Âge Max: 1170
+[0s] Step: 3500 | Pop: 278 | Énergie Moy: 731 | Noeuds Moy: 7.2 | Âge Max: 1270
+[0s] Step: 3600 | Pop: 280 | Énergie Moy: 730 | Noeuds Moy: 7.4 | Âge Max: 1030
+[0s] Step: 3700 | Pop: 274 | Énergie Moy: 742 | Noeuds Moy: 7.4 | Âge Max: 1007
+[0s] Step: 3800 | Pop: 275 | Énergie Moy: 736 | Noeuds Moy: 7.6 | Âge Max: 1083
+[0s] Step: 3900 | Pop: 275 | Énergie Moy: 757 | Noeuds Moy: 7.8 | Âge Max: 1183
+[0s] Step: 4000 | Pop: 276 | Énergie Moy: 744 | Noeuds Moy: 7.9 | Âge Max: 1283
+[0s] Step: 4100 | Pop: 277 | Énergie Moy: 732 | Noeuds Moy: 7.7 | Âge Max: 1183
+[0s] Step: 4200 | Pop: 268 | Énergie Moy: 719 | Noeuds Moy: 7.7 | Âge Max: 947
+[0s] Step: 4300 | Pop: 264 | Énergie Moy: 740 | Noeuds Moy: 7.8 | Âge Max: 1047

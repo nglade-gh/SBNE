@@ -1,0 +1,9 @@
+# Dépendances SBNE (Python 3.10+)
+# Installation : pip install -r requirements.txt
+numpy
+pygame
+jsonpatch
+seaborn
+matplotlib
+pandas
+networkx

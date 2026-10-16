@@ -1,0 +1,11 @@
+{
+  "campaign_id": "c20261016_100753_38073",
+  "campaign_label": "verification fix QUIT (pop 500, pas limite)",
+  "run_id": "r00",
+  "seed": 501,
+  "max_steps": 0,
+  "params_override": {
+    "NUM_AGENTS": "500"
+  },
+  "launched": "2026-10-16T10:07:54"
+}
